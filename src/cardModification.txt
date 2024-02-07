@@ -1,0 +1,25 @@
+I changes something in this profile card to give it a better view. The changes are mentioned below:-
+
+1. First I changes the profile image from avatar to a real person image. so that it's look like little realistic.
+
+2. I use card header and footer to set the header or footer of the card. Because it is a professional card so that i try to give it a professional look.
+
+3. Remove unnecessary icons like profile icon etc.
+
+4. Changes color, font, adding box-shadow and some animations in the card's hover to give a better UI.
+
+5. Remove unnecessary social links like instagram. Because it is a profile card so social links should be professional like github, linkedin, facebook, twitter etc.
+
+6. Didn't add any paragraph to explain. Try to give the card a simple but attractive professional look.
+
+7. Just add necessary information like contact no, email and location. Remove company name as it was in the demo card. Try to give information in short to avoid indistinctness.
+
+8. Add some box-shadow to enhance the profile image. 
+
+9. Changes the body color but not card. so that it will look little better and distinct.
+
+10. And also work on responsiveness properly. The card is fully responsive in any devices like mobile, dekstop, ipad, tab etc.
+
+11. Make the card center align so that it looks better and clear.
+
+12. All the changes are doing with React Js and use bootstrap 5 for the card structure.
